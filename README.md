@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <img alt="Pokédex Preview" src=".github/pokedex.png">
+  <img alt="Pokédex Preview" src="/assets/img/pokedex.png">
 </p>
 
 <h2 id="objetivo">🚀 <b>Objetivo:</b></h2>
